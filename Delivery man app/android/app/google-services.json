@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089861110296",
+    "project_id": "grocery-delivery-boy-71aec",
+    "storage_bucket": "grocery-delivery-boy-71aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089861110296:android:8f6a0202d4da3bbbc6516d",
+        "android_client_info": {
+          "package_name": "com.developer.fatehmarkets_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089861110296-5aitjsajbc05ca2ja25g9bve11ql520v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSdfVFFR9zAvmF1EaOlFdhVhYKOOgkjhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089861110296-5aitjsajbc05ca2ja25g9bve11ql520v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

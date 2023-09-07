@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1041889897543",
+    "project_id": "fathhima-7c0b9",
+    "storage_bucket": "fathhima-7c0b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041889897543:android:2e77590b631f10c8ec5562",
+        "android_client_info": {
+          "package_name": "com.developer.fatehmarkets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041889897543-irl4p0554ard40c8a04gbtnsamkgp0fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.fatehmarkets",
+            "certificate_hash": "559eef4522f7e841601cf163a1ddbc8317846393"
+          }
+        },
+        {
+          "client_id": "1041889897543-rl6pi1aeo2ngv5s08ncedi30epqjvjnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHfi9MR-2orEm0O8q489yY9O2X1HHtTlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041889897543-maosn722rhjsphrsvmj06et7h04dqe0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041889897543-3rs47nvqadqblu8bp9lbn8510rl3699h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.developer.fatehmarkets"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
